@@ -1,2 +1,2 @@
 # dots-catppuccin
-# dots-catppuccin
+![Screenshot](cat.png)
